@@ -1,0 +1,78 @@
+[
+[
+    {
+        "#type": "jxs:string",
+        "#value": "000000000469"
+    },
+    {
+        "#type": "jxs:string",
+        "#value": "000000000098"
+    },
+    {
+        "#type": "jxs:decimal",
+        "#value": 1
+    },
+    {
+        "#type": "jxs:string",
+        "#value": "005"
+    },
+    {
+        "#type": "jxs:string",
+        "#value": "000000026"
+    },
+    {
+        "#type": "jxs:string",
+        "#value": "000000046"
+    },
+    {
+        "#type": "jxs:decimal",
+        "#value": 1
+    },
+    {
+        "#type": "jxs:decimal",
+        "#value": 100001
+    },
+    {
+        "#type": "jxs:boolean",
+        "#value": true
+    }
+],
+    [
+        {
+            "#type": "jxs:string",
+            "#value": "000000000467"
+        },
+        {
+            "#type": "jxs:string",
+            "#value": "000000000094"
+        },
+        {
+            "#type": "jxs:decimal",
+            "#value": 1
+        },
+        {
+            "#type": "jxs:string",
+            "#value": "005"
+        },
+        {
+            "#type": "jxs:string",
+            "#value": "000000026"
+        },
+        {
+            "#type": "jxs:string",
+            "#value": "000000046"
+        },
+        {
+            "#type": "jxs:decimal",
+            "#value": 1
+        },
+        {
+            "#type": "jxs:decimal",
+            "#value": 100001
+        },
+        {
+            "#type": "jxs:boolean",
+            "#value": true
+        }
+    ]
+]

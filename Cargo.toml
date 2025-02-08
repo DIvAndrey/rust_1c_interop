@@ -1,0 +1,9 @@
+[package]
+name = "rust_1c_interop"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+serde_json = "1.0.138"
+serde = { version = "1.0.217", features = ["derive"] }
+paste = "1.0.15"
