@@ -1,6 +1,6 @@
 use serde_json::Value;
 use serde::{Serialize, Deserialize};
-use std::{convert::TryFrom, fs::File, io::BufReader};
+use std::{fs::File, io::BufReader};
 use paste::paste;
 
 macro_rules! type_to_jsx_type {
@@ -150,7 +150,7 @@ fn write_table(table: &Table<TableRow>, columns_data: Value) {
             "row": value
         }
     });
-    serde_json::to_writer(file, &value).unwrap();
+    serde_json::to_writer_pretty(file, &value).unwrap();
 }
 
 fn main() {
